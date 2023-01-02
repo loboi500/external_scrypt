@@ -1,0 +1,14 @@
+sources.bp filter=lfs diff=lfs merge=lfs -text
+import_scrypt.sh filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+scrypt.version filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_BSD_LIKE filter=lfs diff=lfs merge=lfs -text
+scrypt.config filter=lfs diff=lfs merge=lfs -text
+scrypt_platform.h filter=lfs diff=lfs merge=lfs -text
+tests filter=lfs diff=lfs merge=lfs -text
+config.h filter=lfs diff=lfs merge=lfs -text
+lib filter=lfs diff=lfs merge=lfs -text
+NOTICE filter=lfs diff=lfs merge=lfs -text
+patches filter=lfs diff=lfs merge=lfs -text
